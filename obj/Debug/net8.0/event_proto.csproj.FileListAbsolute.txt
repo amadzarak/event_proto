@@ -1,0 +1,14 @@
+/Users/amadzarak/Developer/event_proto/bin/Debug/net8.0/event_proto
+/Users/amadzarak/Developer/event_proto/bin/Debug/net8.0/event_proto.deps.json
+/Users/amadzarak/Developer/event_proto/bin/Debug/net8.0/event_proto.runtimeconfig.json
+/Users/amadzarak/Developer/event_proto/bin/Debug/net8.0/event_proto.dll
+/Users/amadzarak/Developer/event_proto/bin/Debug/net8.0/event_proto.pdb
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.AssemblyInfoInputs.cache
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.AssemblyInfo.cs
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.csproj.CoreCompileInputs.cache
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.dll
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/refint/event_proto.dll
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.pdb
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.genruntimeconfig.cache
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/ref/event_proto.dll
