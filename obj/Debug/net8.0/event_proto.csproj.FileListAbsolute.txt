@@ -12,3 +12,4 @@
 /Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.pdb
 /Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.genruntimeconfig.cache
 /Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/ref/event_proto.dll
+/Users/amadzarak/Developer/event_proto/obj/Debug/net8.0/event_proto.sourcelink.json

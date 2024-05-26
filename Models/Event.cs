@@ -10,10 +10,6 @@ namespace Sandbox
         public DateTime CreatedAt { get; set; }
         public DateTime EventDate { get; set; }
         public bool RequireTickets { get; set; }
-        public bool PasswordProtected { get; set; }
-        public string? Password { get; set; }
-        public bool IsPrivate { get; set; }
-        public bool IsVisible { get; set; }
         public Venue EventVenue { get; set; } = null!;
         public AddressObject Address { get; set; } = null!;
         public Person? EventHost { get; set; }
